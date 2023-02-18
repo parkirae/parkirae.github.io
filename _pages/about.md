@@ -1,5 +1,5 @@
 ---
-title: "안녕하세요. 박이레입니다.👋🏻"
+title: "혜화동 사는 Architect"
 permalink: /about/
 layout: single
 comments: false
