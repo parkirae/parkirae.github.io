@@ -1,9 +1,9 @@
 ---
-title: "Categories4"
+title: "끄적끄적"
 layout: category
-permalink: /categories/categories4/
+permalink: /categories/scribble/
 author_profile: true
-taxonomy: Categories4
+taxonomy: scribble
 sidebar:
   nav: "categories"
 ---

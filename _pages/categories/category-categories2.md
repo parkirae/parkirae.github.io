@@ -1,9 +1,9 @@
 ---
-title: "Categories2"
+title: "git"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/git/
 author_profile: true
-taxonomy: Categories2
+taxonomy: git
 sidebar:
   nav: "categories"
 ---
