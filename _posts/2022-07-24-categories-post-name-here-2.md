@@ -5,7 +5,7 @@ excerpt: "포스팅 예시"
 categories:
   - linux
 tags:
-  - []
+  - [linux]
 
 permalink: /linux/linux/
 
