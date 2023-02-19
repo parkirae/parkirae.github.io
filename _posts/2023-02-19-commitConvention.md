@@ -20,7 +20,7 @@ last_modified_at: 2023-02-19
 
 詩나 소설은 타고나야 합니다. 신문 기사나 공문서 등은 그렇지 않습니다. 주어진 규칙대로 쓰면 됩니다. 커밋 메세지도 규칙이 있습니다. 규칙대로만 쓰면 됩니다.
 
-<img src="/assets/images/posts_img/commitConvention" width="300">
+<img src="/assets/images/posts_img/commitConvention">
 
 # 작성 규칙
 
