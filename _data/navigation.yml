@@ -19,10 +19,10 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Categories1"
-    url: /categories/categories1/
+    url: /categories/git/
   - title: "Categories2"
-    url: /categories/categories2/
+    url: /categories/linux/
   - title: "Categories3"
-    url: /categories/categories3/
+    url: /categories/java/
   - title: "Categories4"
-    url: /categories/categories4/
+    url: /categories/scribble/
