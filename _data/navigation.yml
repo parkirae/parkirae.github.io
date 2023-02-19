@@ -18,11 +18,11 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
+  - title: "git"
     url: /categories/git/
-  - title: "Categories2"
+  - title: "linux"
     url: /categories/linux/
-  - title: "Categories3"
+  - title: "java"
     url: /categories/java/
-  - title: "Categories4"
+  - title: "끄적끄적"
     url: /categories/scribble/
