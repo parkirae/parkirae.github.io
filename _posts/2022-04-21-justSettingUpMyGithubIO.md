@@ -18,7 +18,8 @@ last_modified_at: 2022-04-21
 
 ![justSettingUpMyGithubIO](/assets/images/posts_img/justSettingUpMyGithubIO.png)
 
-###just setting up my twttr
+### just setting up my twttr
+
 최초의 트윗이다.<br />
 2006년, 트위터 창업자 잭 도시가 썼다.<br />
 2021년, NFT형식으로 경매에 나왔고 290만 달러에 팔렸다.<br />
@@ -29,6 +30,6 @@ last_modified_at: 2022-04-21
 
 인간만사 새옹지마.<br />
 
-just setting up my github.io<br />
+### just setting up my github.io<br />
 
 2022년, 종로구에 사는 박이레가 썼다.
