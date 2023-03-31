@@ -33,7 +33,6 @@ last_modified_at: 2023-03-18
 # Source Code
 
 ```java
-package authlabs.XRGallery.controller;
 
 public class TestScore {
 
