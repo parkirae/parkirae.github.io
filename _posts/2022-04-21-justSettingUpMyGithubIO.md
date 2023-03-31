@@ -3,7 +3,7 @@ title: "[끄적끄적] just setting up my Github.io"
 excerpt: "내 첫번재 블로그 아티클"
 
 categories:
-  - 끄적끄적
+  - scribble
 tags:
   - [끄적끄적]
 
