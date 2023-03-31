@@ -20,7 +20,7 @@ last_modified_at: 2023-03-18
 
 5년차 개발자 선배와 같은 시험을 쳤습니다. 선배는 30분 만에 풀었고 저는 7시간 만에 풀었습니다. 나는 왜 이것밖에 안될까 라는 자조가 들었습니다. 한없이 작아졌습니다. 다음 시험이나 그 다음 시험에 제가 또 질 수도 있습니다. 그러나 아직 시험은 끝나지 않았습니다. 언젠가 제가 이기는 날도 올겁니다.
 
-![commitConvention](/assets/images/posts_img/gradeProcessingProgram.png)
+![gradeProcessingProgram](/assets/images/posts_img/gradeProcessingProgram.png)
 
 # 문제
 
