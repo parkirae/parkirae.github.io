@@ -13,12 +13,12 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 0.7lem !default;
 
 /* system typefaces */
-$serif: KyoboHand, Georgia, Times, serif !default;
+$serif: Georgia, Times, serif !default;
 /* 2022.01.19 font change */
-$sans-serif: KyoboHand, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+$sans-serif: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
   "Montserrat", "Pretendard", "Merriweather", sans-serif !default;
-$monospace: KyoboHand, "Fira Mono", "Pretendard", Monaco, Consolas,
-  "Lucida Console", monospace !default;
+$monospace: "Fira Mono", "Pretendard", Monaco, Consolas, "Lucida Console",
+  monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
