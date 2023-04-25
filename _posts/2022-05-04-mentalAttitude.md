@@ -89,6 +89,6 @@ last_modified_at: 2022-05-04
 
 <br>
 
-## 💁‍♂️참고문헌
+**참고문헌**
 
 [![뭘 해도 행복한 사람과 불만인 사람의 말버릇](https://img.youtube.com/vi/Qhfz525cRTs/0.jpg)](https://www.youtube.com/watch?v=Qhfz525cRTs)
