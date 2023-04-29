@@ -7,7 +7,7 @@ categories:
 tags:
   - [Computer Science]
 
-permalink: /Computer Science/RESTArchitectStyle/
+permalink: /ComputerScience/RESTArchitectStyle/
 
 toc: true
 toc_sticky: true

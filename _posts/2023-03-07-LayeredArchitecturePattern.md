@@ -7,7 +7,7 @@ categories:
 tags:
   - [Computer Science]
 
-permalink: /Computer Science/LayeredArchitecturePattern/
+permalink: /ComputerScience/LayeredArchitecturePattern/
 
 toc: true
 toc_sticky: true
