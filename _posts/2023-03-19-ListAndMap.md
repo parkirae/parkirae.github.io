@@ -1,6 +1,6 @@
 ---
-title: "[java] 구구단"
-excerpt: "구구단"
+title: "[java] List와 Map"
+excerpt: "List와 Map"
 
 categories:
   - java
