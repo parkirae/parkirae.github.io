@@ -12,8 +12,8 @@ permalink: /scribble/nonsenseResume/
 toc: true
 toc_sticky: true
 
-date: 2022-11-14
-last_modified_at: 2022-11-14
+date: 2022-04-14
+last_modified_at: 2022-04-14
 ---
 
 ### 사진은 언어이다

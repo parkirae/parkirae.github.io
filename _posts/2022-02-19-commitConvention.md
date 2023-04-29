@@ -12,8 +12,8 @@ permalink: /git/commit-convention/
 toc: true
 toc_sticky: true
 
-date: 2023-02-19
-last_modified_at: 2023-02-19
+date: 2022-02-19
+last_modified_at: 2022-02-19
 ---
 
 프로그래머들이 가장 힘든 업무로 '이름 짓기'를 꼽았습니다. 무려 49%입니다.

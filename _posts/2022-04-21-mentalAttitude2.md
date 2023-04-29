@@ -12,8 +12,8 @@ permalink: /scribble/mentalAttitude2/
 toc: true
 toc_sticky: true
 
-date: 2022-11-14
-last_modified_at: 2022-11-14
+date: 2022-04-21
+last_modified_at: 2022-04-21
 ---
 
 **"이 책만 끝내면 멋진 모던 웹 어플리케이션을 만들 수 있습니다"**
