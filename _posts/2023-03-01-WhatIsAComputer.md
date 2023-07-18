@@ -3,7 +3,7 @@ title: "[Computer Science] Computer란 무엇인가요?"
 excerpt: "Computer란 무엇인가요?"
 
 categories:
-  - Computer_Science
+  - computer_science
 tags:
   - [Computer Science]
 

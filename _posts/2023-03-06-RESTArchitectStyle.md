@@ -3,7 +3,7 @@ title: "[Computer Science] RESTArchitectStyle"
 excerpt: "RESTArchitectStyle"
 
 categories:
-  - Computer_Science
+  - computer_science
 tags:
   - [Computer Science]
 
