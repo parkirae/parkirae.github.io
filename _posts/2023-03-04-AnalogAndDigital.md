@@ -3,7 +3,7 @@ title: "[Computer Science] 아날로그와 디지털"
 excerpt: "아날로그와 디지털"
 
 categories:
-  - Computer Science
+  - Computer_Science
 tags:
   - [Computer Science]
 

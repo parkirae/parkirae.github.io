@@ -19,7 +19,7 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "computer science"
-    url: /categories/computer science/
+    url: /categories/computer_science/
   - title: "java"
     url: /categories/java/
   - title: "linux"

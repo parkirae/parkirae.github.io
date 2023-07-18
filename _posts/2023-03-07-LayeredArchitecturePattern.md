@@ -3,7 +3,7 @@ title: "[Computer Science] LayeredArchitecturePattern"
 excerpt: "LayeredArchitecturePattern"
 
 categories:
-  - Computer Science
+  - Computer_Science
 tags:
   - [Computer Science]
 

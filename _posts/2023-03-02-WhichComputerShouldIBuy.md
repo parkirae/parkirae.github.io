@@ -3,7 +3,7 @@ title: "[Computer Science] 어떤 Computer를 사야 하나요?"
 excerpt: "어떤 Computer를 사야 하나요?"
 
 categories:
-  - Computer Science
+  - Computer_Science
 tags:
   - [Computer Science]
 
