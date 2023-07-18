@@ -5,9 +5,9 @@ excerpt: "LayeredArchitecturePattern"
 categories:
   - computer_science
 tags:
-  - [Computer Science]
+  - [computer_science]
 
-permalink: /ComputerScience/LayeredArchitecturePattern/
+permalink: /computer_science/LayeredArchitecturePattern/
 
 toc: true
 toc_sticky: true

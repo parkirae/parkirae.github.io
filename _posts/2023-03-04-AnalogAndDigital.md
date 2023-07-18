@@ -5,9 +5,9 @@ excerpt: "아날로그와 디지털"
 categories:
   - computer_science
 tags:
-  - [Computer Science]
+  - [computer_science]
 
-permalink: /ComputerScience/AnalogAndDigital/
+permalink: /computer_science/AnalogAndDigital/
 
 toc: true
 toc_sticky: true

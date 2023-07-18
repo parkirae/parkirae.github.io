@@ -5,9 +5,9 @@ excerpt: "Computer란 무엇인가요?"
 categories:
   - computer_science
 tags:
-  - [Computer Science]
+  - [computer_science]
 
-permalink: /ComputerScience/WhatIsAComputer/
+permalink: /computer_science/WhatIsAComputer/
 
 toc: true
 toc_sticky: true

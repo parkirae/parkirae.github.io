@@ -5,9 +5,9 @@ excerpt: "어떤 Computer를 사야 하나요?"
 categories:
   - computer_science
 tags:
-  - [Computer Science]
+  - [computer_science]
 
-permalink: /ComputerScience/WhichComputerShouldIBuy/
+permalink: /computer_science/WhichComputerShouldIBuy/
 
 toc: true
 toc_sticky: true

@@ -5,9 +5,9 @@ excerpt: "RESTArchitectStyle"
 categories:
   - computer_science
 tags:
-  - [Computer Science]
+  - [computer_science]
 
-permalink: /ComputerScience/RESTArchitectStyle/
+permalink: /computer_science/RESTArchitectStyle/
 
 toc: true
 toc_sticky: true
