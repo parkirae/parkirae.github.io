@@ -18,12 +18,14 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "computer science"
-    url: /categories/computer-science/
   - title: "java"
     url: /categories/java/
   - title: "jpa"
     url: /categories/jpa/
+  - title: "auth"
+    url: /categories/auth/
+  - title: "computer science"
+    url: /categories/computer-science/
   - title: "linux"
     url: /categories/linux/
   - title: "git"
