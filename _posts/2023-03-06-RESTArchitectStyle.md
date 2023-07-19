@@ -3,9 +3,9 @@ title: "[Computer Science] RESTArchitectStyle"
 excerpt: "RESTArchitectStyle"
 
 categories:
-  - computer_science
+  - computer science
 tags:
-  - [computer_science]
+  - [computer science]
 
 permalink: /computer_science/RESTArchitectStyle/
 

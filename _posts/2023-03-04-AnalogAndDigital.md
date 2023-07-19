@@ -3,9 +3,9 @@ title: "[Computer Science] 아날로그와 디지털"
 excerpt: "아날로그와 디지털"
 
 categories:
-  - computer_science
+  - computer science
 tags:
-  - [computer_science]
+  - [computer science]
 
 permalink: /computer_science/AnalogAndDigital/
 

@@ -3,9 +3,9 @@ title: "[Computer Science] LayeredArchitecturePattern"
 excerpt: "LayeredArchitecturePattern"
 
 categories:
-  - computer_science
+  - computer science
 tags:
-  - [computer_science]
+  - [computer science]
 
 permalink: /computer_science/LayeredArchitecturePattern/
 
