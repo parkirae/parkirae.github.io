@@ -11,8 +11,8 @@ permalink: /jpa/Hibernate/
 
 toc: false
 
-date: 2022-06-02
-last_modified_at: 2022-06-02
+date: 2022-06-05
+last_modified_at: 2022-06-05
 ---
 
 ![Hibernate](/assets/images/posts_img/hibernate.png)
