@@ -7,7 +7,7 @@ categories:
 tags:
   - [computer science]
 
-permalink: /computer_science/WhatIsAComputer/
+permalink: /computer-science/WhatIsAComputer/
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [computer science]
 
-permalink: /computer_science/AnalogAndDigital/
+permalink: /computer-science/AnalogAndDigital/
 
 toc: true
 toc_sticky: true

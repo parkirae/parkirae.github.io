@@ -7,7 +7,7 @@ categories:
 tags:
   - [computer science]
 
-permalink: /computer_science/WhichComputerShouldIBuy/
+permalink: /computer-science/WhichComputerShouldIBuy/
 
 toc: true
 toc_sticky: true
