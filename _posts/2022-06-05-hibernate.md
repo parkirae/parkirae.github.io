@@ -17,7 +17,7 @@ last_modified_at: 2022-06-05
 
 ![Hibernate](/assets/images/posts_img/hibernate.png)
 
-[JPA란 무엇인가요?] (https://parkirae.github.io/jpa/WhatIsAJPA/)에서 JPA는 DB 연동 기술'이라고 했습니다. 더 자세히 알아볼까요?<br />
+[JPA란 무엇인가요?](https://parkirae.github.io/jpa/WhatIsAJPA/)에서 JPA는 DB 연동 기술'이라고 했습니다. 더 자세히 알아볼까요?<br />
 
 
 JPA는 Java Persistence API의 줄임말입니다. API는 Application Programming Interface이지요. 하이버네이트는 JPA를 구현한 프레임워크입니다. 하이버네이트 내부적으로는 JDBC API를 사용하죠.<br />
