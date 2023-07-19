@@ -27,7 +27,7 @@ description: "혜화동 사는 Architect" # 블로그 설명
 url: "https://parkirae.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "parkirae/parkirae.github.io" # GitHub Repo 이름
-teaser: 
+teaser:
 
 # logo: "/assets/images/logo.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
