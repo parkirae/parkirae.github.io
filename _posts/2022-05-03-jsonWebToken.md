@@ -90,6 +90,7 @@ qqqqqqqqqqqqqqqq
 
 JWT를 사용하는 이유는 Basic Auth, Bearer Auth의 단점을 극복했기 때문입니다. Basic Auth, Bearer Auth의 공통된 단점은 스케일 문제를 해결할 수 없다는 것입니다. 모든 요청 헤더에 인증 정보를 넣어 전달하고 매번 인증을 받아야 하죠. 인증 서버 과부하 확률이 올라갑니다. JWT는 이 문제를 어떻게 해결했을까요?<br />
 
+<br />
 
 ## JWT 인증 방식
 <br />
