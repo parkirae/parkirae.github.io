@@ -14,11 +14,11 @@ $indent-var: 0.7lem !default;
 
 /* system typefaces */
 $customFont: "SF Pro Display";
-$serif: Georgia, Times, serif !default;
+$serif: $customFont, Georgia, Times, serif !default;
 /* 2022.01.19 font change */
-$sans-serif: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+$sans-serif: $customFont, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
   "Montserrat", "Pretendard", "Merriweather", sans-serif !default;
-$monospace: "Fira Mono", "Pretendard", Monaco, Consolas, "Lucida Console",
+$monospace: $customFont, "Fira Mono", "Pretendard", Monaco, Consolas, "Lucida Console",
   monospace !default;
 
 /* sans serif typefaces */
