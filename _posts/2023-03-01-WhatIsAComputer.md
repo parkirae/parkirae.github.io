@@ -10,6 +10,7 @@ tags:
 permalink: /computer-science/WhatIsAComputer/
 
 toc: true
+toc_sticky : true
 
 date: 2023-03-01
 last_modified_at: 2023-03-01

@@ -10,6 +10,7 @@ tags:
 permalink: /git/commit-convention/
 
 toc: true
+toc_sticky : true
 
 date: 2022-02-19
 last_modified_at: 2022-02-19

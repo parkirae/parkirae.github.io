@@ -10,6 +10,7 @@ tags:
 permalink: /jpa/Hibernate/
 
 toc: true
+toc_sticky : true
 
 date: 2022-06-05
 last_modified_at: 2022-06-05

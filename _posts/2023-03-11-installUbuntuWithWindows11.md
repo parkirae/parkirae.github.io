@@ -10,7 +10,7 @@ tags:
 permalink: /linux/installUbuntuWithWindows11/
 
 toc: true
-
+toc_sticky : true
 
 date: 2023-03-11
 last_modified_at: 2023-03-11
