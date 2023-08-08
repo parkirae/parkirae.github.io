@@ -9,7 +9,7 @@ tags:
 
 permalink: /auth/jsonWebToken/
 
-toc: false
+toc: true
 
 date: 2022-05-03
 last_modified_at: 2022-05-03

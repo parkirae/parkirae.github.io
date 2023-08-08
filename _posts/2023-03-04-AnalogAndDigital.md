@@ -9,7 +9,7 @@ tags:
 
 permalink: /computer-science/AnalogAndDigital/
 
-toc: false
+toc: true
 
 date: 2023-03-04
 last_modified_at: 2023-03-04

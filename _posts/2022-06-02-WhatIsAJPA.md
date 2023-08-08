@@ -9,7 +9,7 @@ tags:
 
 permalink: /jpa/WhatIsAJPA/
 
-toc: false
+toc: true
 
 date: 2022-06-02
 last_modified_at: 2022-06-02

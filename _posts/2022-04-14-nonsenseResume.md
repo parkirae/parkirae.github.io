@@ -9,7 +9,7 @@ tags:
 
 permalink: /scribble/nonsenseResume/
 
-toc: false
+toc: true
 
 date: 2022-04-14
 last_modified_at: 2022-04-14

@@ -9,7 +9,8 @@ tags:
 
 permalink: /java/gradeProcessingProgram/
 
-toc: false
+toc: true
+
 
 date: 2023-05-18
 last_modified_at: 2023-05-18

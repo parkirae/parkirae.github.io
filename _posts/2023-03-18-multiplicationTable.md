@@ -9,7 +9,8 @@ tags:
 
 permalink: /java/multiplicationTable/
 
-toc: false
+toc: true
+
 
 date: 2023-03-18
 last_modified_at: 2023-03-18

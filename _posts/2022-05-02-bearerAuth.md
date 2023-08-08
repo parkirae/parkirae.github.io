@@ -9,7 +9,7 @@ tags:
 
 permalink: /auth/bearerAuth/
 
-toc: false
+toc: true
 
 date: 2022-05-02
 last_modified_at: 2022-05-02
